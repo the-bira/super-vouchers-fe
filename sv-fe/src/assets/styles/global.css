@@ -1,0 +1,10 @@
+:root {
+    font-size: 60%;
+
+    --color-background: #f0f0f7;
+    --color-primary: #ef7985;
+    --color-info: #342b4a;
+    --color-success: #7d9f60;
+    --color-warning: #fa8f28;
+    --color-danger: #f44336;
+}
