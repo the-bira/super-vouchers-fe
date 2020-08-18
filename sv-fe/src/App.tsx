@@ -1,12 +1,12 @@
 import React from 'react';
 
-import Landing from './pages/Landing';
+import Header from './components/Header';
 
 import './assets/styles/global.css'
 
 function App() {
   return (
-    <Landing />
+    <Header />
   );
 }
 

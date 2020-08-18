@@ -1,11 +1,16 @@
 :root {
     font-size: 60%;
 
-    --color-background: #f0f0f7;
-    --color-primary: #ef7985;
-    --color-info: #342b4a;
-    --color-success: #7d9f60;
-    --color-warning: #fa8f28;
+    --color-background: #F8F7F3;
+
+    --color-light-accent: #E58787;
+    --color-main-brand: #C7A699;
+    --color-dark-accent: #797B7A;
+    --color-dark-background: #7B4C42;
+    --color-primary: #c7a699;
+    --color-info: #7b4c42;
+    --color-success: #71ac66;
+    --color-warning: #ee9c2e;
     --color-danger: #f44336;
 }
 
